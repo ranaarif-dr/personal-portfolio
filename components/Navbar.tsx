@@ -6,7 +6,7 @@ export default function Navbar() {
   return (
     <nav className="bg-background border-b">
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
-        <Link href="/" className="text-2xl font-bold">Laiba Ali</Link>
+        <Link href="/" className="text-2xl font-bold">Rana Arif</Link>
         <div className="space-x-4">
           <Button variant="ghost" asChild>
             <Link href="/">Home</Link>
